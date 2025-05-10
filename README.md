@@ -49,8 +49,14 @@ This project leverages the **RFM (Recency, Frequency, Monetary)** model to perfo
 ## 📈 Visualizations
 
 - RFM distribution histograms
+![RFM distribution histograms](b3f920a9-b1ca-40b4-b0c1-eaa2e97af032.png)
+- Elbow Method & Silhouette Score Analysis
+![Elbow Method & Silhouette Score Analysis](b3f920a9-b1ca-40b4-b0c1-eaa2e97af032.png)
 - Customer clusters based on RFM scores
-- Spending vs. frequency heatmaps
+![Customer clusters based on RFM scores](b3f920a9-b1ca-40b4-b0c1-eaa2e97af032.png)
+- DBSCAN Clustering (Anomaly Detection)
+![DBSCAN Clustering (Anomaly Detection)](b3f920a9-b1ca-40b4-b0c1-eaa2e97af032.png)
+
 
 
 ---
