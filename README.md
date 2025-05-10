@@ -49,13 +49,13 @@ This project leverages the **RFM (Recency, Frequency, Monetary)** model to perfo
 ## 📈 Visualizations
 
 - RFM distribution histograms
-![RFM distribution histograms](b3f920a9-b1ca-40b4-b0c1-eaa2e97af032.png)
+![RFM distribution histograms](e0ab9fe8-5330-4ec3-8b28-fefdd43a88d9.png)
 - Elbow Method & Silhouette Score Analysis
-![Elbow Method & Silhouette Score Analysis](b3f920a9-b1ca-40b4-b0c1-eaa2e97af032.png)
+![Elbow Method & Silhouette Score Analysis](6300d323-79ce-49d7-9c55-60685f406b82.png)
 - Customer clusters based on RFM scores
-![Customer clusters based on RFM scores](b3f920a9-b1ca-40b4-b0c1-eaa2e97af032.png)
+![Customer clusters based on RFM scores](a511c5a5-d94a-4399-a5ad-035fffed6c38.png)
 - DBSCAN Clustering (Anomaly Detection)
-![DBSCAN Clustering (Anomaly Detection)](b3f920a9-b1ca-40b4-b0c1-eaa2e97af032.png)
+![DBSCAN Clustering (Anomaly Detection)](ea973abf-6603-4d1d-acfc-ef80542ed88c.png)
 
 
 
@@ -66,4 +66,5 @@ This project leverages the **RFM (Recency, Frequency, Monetary)** model to perfo
 1. Clone the repo:
 ```bash
 git clone https://github.com/yashling/Ecommerce-RFM-Segmentation.git
-cd ecommerce-rfm-segmentation
+cd Ecommerce-RFM-Segmentation
+jupyter notebook RFM_Customer_Segmentation.ipynb
