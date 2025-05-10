@@ -2,13 +2,13 @@
 
 This project leverages the **RFM (Recency, Frequency, Monetary)** model to perform customer segmentation using an eCommerce dataset. The goal is to identify distinct customer groups based on purchasing behavior and help businesses tailor marketing strategies for each segment.
 
-![Customer Segmentation Visualization](customer_segments_visual.png) <!-- Add your segmentation chart here -->
+![Customer Segmentation Visualization](b3f920a9-b1ca-40b4-b0c1-eaa2e97af032.png) <!-- Add your segmentation chart here -->
 
 ---
 
 ## 📦 Dataset
 
-- **Source**: [Kaggle - Demo Graphite Note eCommerce Orders Dataset](https://www.kaggle.com/datasets)
+- **Source**: Kaggle
 - **Records**: 30,000+ transactions
 - **Fields Used**: `user_id`, `created_at`, `total`, `order_id`
 
